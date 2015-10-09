@@ -18,7 +18,7 @@ Add the following to your `mix.exs`:
 We suggest adding the following to your pipelines in `router.es`, but you can
 also include this in individual controllers.
 
-```
+```elixir
 plug Rails
 ```
 
