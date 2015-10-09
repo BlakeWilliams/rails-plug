@@ -15,7 +15,7 @@ Add the following to your `mix.exs`:
 
 # Usage
 
-We suggest adding the following to your pipelines in `router.es`, but you can
+We suggest adding the following to your pipelines in `router.ex`, but you can
 also include this in individual controllers.
 
 ```elixir
