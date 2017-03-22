@@ -6,7 +6,7 @@ defmodule Rails do
   end
 
   def call(conn, _opts) do
-    rails_penalty = 500..1200 |> Enum.shuffle |> Enum.at(0)
+    rails_penalty = 500..1200 |> Enum.random
     :timer.sleep(rails_penalty)
     conn
   end
