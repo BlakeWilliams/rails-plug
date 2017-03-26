@@ -30,3 +30,8 @@ plug Rails
 plug Rails
 plug Rails
 ```
+
+## Disclaimer
+
+I still love Rails and Ruby. This is just me poking fun at a real issue that
+Ruby and by extension, Rails has.
